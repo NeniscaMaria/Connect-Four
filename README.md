@@ -13,3 +13,6 @@ At the beginning you can choose if you want to play in the console or with a GUI
 If you chose to play in the console, you have the sign 'O' and computer has the sign 'X'.
 If you chose to play with the GUI, you will have the color yellow, and the computer will have the color red.
 The computer will try to beat you. The goal is to win.
+
+What I learned:
+-create a game that is aware of your actions and is behaving accordingly
