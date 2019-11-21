@@ -1,5 +1,5 @@
 # Connect-Four
-
+--created during the first semester
 In this repository, I implemented the classic game Connect-Four.
 Source of the texttable: https://github.com/foutaise/texttable
 Description of the game: (source: https://en.wikipedia.org/wiki/Connect_Four)
